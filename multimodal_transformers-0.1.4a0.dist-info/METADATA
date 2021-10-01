@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: multimodal-transformers
+Version: 0.1.4a0
+Summary: Multimodal Extension Library for PyTorch HuggingFace Transformers
+Home-page: https://github.com/georgianpartners/Multimodal-Toolkit
+Author: Ken Gu
+Author-email: kgu@georgianpartners.com
+License: MIT
+Download-URL: https://github.com/georgianpartners/Multimodal-Toolkit/archive/v_0.1.4-alpha.tar.gz
+Keywords: pytorch,multimodal,transformers,huggingface
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.6
+Requires-Dist: torch
+Requires-Dist: transformers (==3.1)
+Requires-Dist: numpy
+Requires-Dist: tqdm
+Requires-Dist: scipy
+Requires-Dist: networkx
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+
+UNKNOWN
+
+
